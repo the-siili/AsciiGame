@@ -1,0 +1,1 @@
+gcc %cd%\src\main.c %cd%\src\modules\Input.c %cd%\src\modules\Camera.c %cd%\src\modules\generic\matrix.c %cd%\src\modules\generic\strfuncs.c -o %cd%\Builds\program
